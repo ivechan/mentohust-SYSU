@@ -1,7 +1,7 @@
 #SYSU版本
 在hyrathb大侠[https://github.com/hyrathb/mentohust]的基础修改，以使得在SYSU能使用
-
-
+！！！！仅作为学习EAP， EAPOL协议使用，请勿用于其他用途。后果自负。
+请遵守GPL3.0协议
 #以下是原来的内容
 完全没怎么看原来的代码，瞎改的。
 加入了V4支持。具体算法看checkV4.c
